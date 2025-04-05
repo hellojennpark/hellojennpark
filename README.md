@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Yejin&fontAlignY=50&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Jenn&fontAlignY=50&fontSize=50)
 
 <span>
   <a href="mailto:o0o2211915@gmail.com">
